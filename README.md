@@ -1,55 +1,58 @@
 # Hi 👋, I'm Prabhat Dubey
 
-### B.Tech CSE Student @ MNNIT Allahabad • AI/ML Enthusiast • Full Stack Developer • Competitive Programmer
+### B.Tech CSE @ MNNIT Allahabad • AI/ML Enthusiast • Full Stack Developer • Competitive Programmer
 
-I'm a Computer Science student passionate about **Machine Learning, Generative AI, Full Stack Development, and Data Structures & Algorithms**.
+I'm a Computer Science undergraduate at **MNNIT Allahabad**, passionate about **Machine Learning, Generative AI, Full Stack Development, and Data Structures & Algorithms**.
 
-I enjoy turning ideas into practical applications, building ML-powered systems, and continuously improving my problem-solving skills through competitive programming.
+I enjoy building real-world applications, experimenting with AI/ML systems, and solving algorithmic problems through competitive programming.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech Computer Science & Engineering student at **MNNIT Allahabad**
-* 🤖 Passionate about **Machine Learning, AI & Generative AI**
-* 💻 Building applications with **Python, C++, JavaScript and MERN**
+* 🎓 B.Tech Computer Science & Engineering at **MNNIT Allahabad**
+* 📚 B.Tech **2025–2029**
+* 📊 **8.82 CPI** till 2nd semester
+* 🤖 Exploring **Machine Learning, Generative AI & LLMs**
+* 💻 Building applications with **C++, Python, JavaScript & MERN**
 * 🧠 Strong focus on **Data Structures & Algorithms**
-* 🧩 **500+ problems solved on LeetCode**
-* ⚔️ **Pupil on Codeforces**
-* ⭐ **2★ on CodeChef**
-* 🚀 Participated in multiple **hackathons and technical competitions**
-* 🌱 Currently exploring **Generative AI, LangChain, LangGraph, LLMs and Agentic AI**
+* 🔥 **450+ LeetCode problems solved**
+* ⚔️ **Codeforces Pupil**
+* ⭐ **CodeChef 2★**
+* 🏆 Participated in hackathons and technical competitions
+* 🌱 Currently exploring **RAG, LangChain, LangGraph & Agentic AI**
 * 🎯 Preparing for **Software Engineering / AI-ML internships**
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏠 PropValue AI — Real Estate Price Prediction
+## 🏠 PropValue AI — AI-Powered Real Estate Valuation
 
-An end-to-end machine learning application that predicts residential property prices based on property characteristics such as location, area, bedrooms, bathrooms, year built, garage spaces, and renovation status.
+An end-to-end Machine Learning application for residential property price prediction and analysis.
 
-The project combines a **Scikit-learn ML pipeline, FastAPI backend, and interactive frontend** to demonstrate how a machine learning model can be integrated into a real-world application.
+The system uses property characteristics such as **location, area, bedrooms, bathrooms, year built, garage spaces, and renovation status** to generate property price predictions.
 
 ### Key Features
 
 * 🏠 Property price prediction
 * 📊 Data preprocessing & feature engineering
-* 🤖 Machine learning prediction pipeline
+* 🤖 Scikit-learn ML pipeline
 * ⚡ FastAPI backend
+* 📈 Property comparison & analysis
+* 💰 Financial insights
+* 🔄 What-If analysis
 * 🌐 Interactive web interface
-* 📈 Real-world property analysis
-* 🔄 End-to-end ML deployment workflow
 
 ### Tech Stack
 
-`Python` `Scikit-learn` `Pandas` `NumPy` `FastAPI` `REST API` `JavaScript`
+`Python` `Pandas` `NumPy` `Scikit-learn` `FastAPI` `REST APIs`
 
 ---
 
 ## 🧳 Yatra AI — Intelligent Travel Recommendation System
 
-An AI/ML-powered travel platform designed to provide personalized destination recommendations and intelligent travel planning.
+An AI/ML-powered travel platform designed to provide personalized recommendations and intelligent travel planning.
 
 ### Key Features
 
@@ -61,16 +64,17 @@ An AI/ML-powered travel platform designed to provide personalized destination re
 * 🔍 Explainable AI
 * 🗺️ Destination discovery
 * ⚡ ML microservice architecture
+* 📊 Intelligent scoring using vector similarity
 
 ### Tech Stack
 
-`Python` `Scikit-learn` `FastAPI` `React` `Node.js` `MongoDB` `Vector Similarity` `AI/ML`
+`Python` `Scikit-learn` `FastAPI` `React` `Node.js` `MongoDB` `AI/ML`
 
 ---
 
 ## 🤖 RAG-Based AI Application
 
-Built a Retrieval-Augmented Generation system combining an LLM with vector search to provide context-aware responses.
+Built a Retrieval-Augmented Generation system combining an LLM with vector search to generate context-aware responses.
 
 ### Technologies
 
@@ -78,22 +82,54 @@ Built a Retrieval-Augmented Generation system combining an LLM with vector searc
 
 ---
 
-# 🏆 Hackathons & Achievements
+## 🌦️ Weather Dashboard
 
-### 🥈 Avishkar'25 — MNNIT Allahabad
+A responsive weather application that fetches real-time weather information for cities using the OpenWeather API.
 
-Achieved **2nd Place** in multiple competitions:
+### Features
 
-* 🥈 **SoftaThalon**
-* 🥈 **Robogesture Rally**
-* 🥈 **Dev or Die** — RAG-based AI application using Gemini & Pinecone
-* 💻 Cleared the preliminary round of **CodeClash**
+* 🌡️ Temperature
+* 💧 Humidity
+* 💨 Wind speed
+* 🌤️ Weather conditions
+* ⚡ Asynchronous API requests
+* 🛡️ Error handling
+* 📱 Responsive interface
 
-### 🚀 Hack 18 — MNNIT Allahabad
+### Tech Stack
 
-Participated in an **18-hour offline hackathon** organized under the Institute Innovation Council.
+`HTML` `CSS` `JavaScript` `OpenWeather API`
 
-Worked on building and presenting a real-world technology solution under time constraints.
+---
+
+## 🎮 Rock Paper Scissors
+
+An interactive browser-based Rock Paper Scissors game.
+
+### Features
+
+* 🎯 Game logic
+* 🖱️ Event handling
+* 🌐 DOM manipulation
+* 🤖 Random computer moves
+* 📊 Real-time score tracking
+
+### Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+# 🏆 Achievements
+
+* 🥉 **3rd Place — Trailblitz Robotics Competition**, Avishkar'25, MNNIT Allahabad
+* 🏆 **99.67 Percentile — JEE Mains 2025**, among the top 0.33% of more than 14 lakh candidates
+* 🎓 **Reliance Foundation Undergraduate Scholar**
+* 🔥 **450+ LeetCode Problems Solved**
+* ⚔️ **Codeforces Pupil** — Max Rating: **1154**
+* ⭐ **CodeChef 2★** — Rating: **1425**
+
+Your resume explicitly confirms the Trailblitz result, JEE percentile and Reliance Foundation scholarship.
 
 ---
 
@@ -103,27 +139,20 @@ I regularly practice **Data Structures & Algorithms** and participate in competi
 
 ### 🧩 Problem Solving
 
-* 🔥 **500+ LeetCode Problems**
+* 🔥 **450+ LeetCode Problems**
+* 📈 LeetCode Rating: **1600**
 * ⚔️ **Codeforces — Pupil**
+* 📈 Codeforces Max Rating: **1154**
 * ⭐ **CodeChef — 2★**
-* 🧠 Strong focus on:
+* 📈 CodeChef Rating: **1425**
 
-  * Dynamic Programming
-  * Graphs
-  * Trees
-  * Binary Search
-  * Sliding Window
-  * Two Pointers
-  * Greedy Algorithms
-  * Recursion & Backtracking
-  * Linked Lists
-  * Stacks & Queues
+### Core DSA Topics
 
-### Profiles
+`Arrays` `Strings` `Binary Search` `Sliding Window` `Two Pointers`
 
-* 💻 [LeetCode](YOUR_LEETCODE_LINK)
-* ⚔️ [Codeforces](YOUR_CODEFORCES_LINK)
-* ⭐ [CodeChef](YOUR_CODECHEF_LINK)
+`Linked Lists` `Stacks` `Queues` `Trees` `Graphs`
+
+`Greedy` `Recursion` `Backtracking` `Dynamic Programming`
 
 ---
 
@@ -131,41 +160,63 @@ I regularly practice **Data Structures & Algorithms** and participate in competi
 
 ### 👨‍💻 Languages
 
-`C++` `Python` `JavaScript` `HTML` `CSS` `SQL`
+`C` `C++` `Python` `JavaScript` `SQL`
 
-### 🤖 AI / Machine Learning
+Your resume lists C, C++, and Python among your programming languages.
+
+### 🌐 Frontend
+
+`HTML` `CSS` `JavaScript` `React.js` `Tailwind CSS`
+
+### ⚙️ Backend
+
+`Node.js` `Express.js` `FastAPI` `REST APIs`
+
+### 🤖 Machine Learning & AI
 
 `Python` `NumPy` `Pandas` `Scikit-learn` `Matplotlib`
 
 Currently exploring:
 
-`Generative AI` `LLMs` `LangChain` `LangGraph` `RAG` `AI Agents`
-
-### 🌐 Web Development
-
-`HTML` `CSS` `JavaScript` `React` `Node.js` `Express.js` `MERN`
+`Generative AI` `LLMs` `RAG` `LangChain` `LangGraph` `AI Agents`
 
 ### 🗄️ Databases
 
 `MongoDB` `MongoDB Atlas` `MySQL` `PostgreSQL`
 
-### ⚙️ Tools & Platforms
+### 🔧 Tools
 
-`Git` `GitHub` `VS Code` `Postman` `FastAPI` `Firebase`
+`Git` `GitHub` `VS Code` `Postman` `Jupyter Notebook`
 
 ---
 
 # 📈 Currently Learning
 
-* 🤖 Generative AI & LLM Fundamentals
-* 🔗 LangChain
-* 🧠 LangGraph & Agentic AI
+* 🤖 Generative AI
+* 🧠 LLM Fundamentals
 * 📚 Retrieval-Augmented Generation
-* 🧩 AI Agents & Multi-Agent Systems
+* 🔗 LangChain
+* 🕸️ LangGraph
+* 🤝 Agentic AI
 * 🧠 Deep Learning
 * ⚙️ Backend Development
 * 🏗️ System Design
-* 💻 Advanced Data Structures & Algorithms
+* 💻 Advanced DSA
+
+---
+
+# 📂 GitHub Projects
+
+Some of the repositories currently visible on your GitHub include:
+
+* 🏠 **PropValue-AI** — AI-powered real estate valuation
+* 🌦️ **weather-dashboard**
+* 🎮 **Rock-Paper-Scissors**
+* 🧪 **Power-transform**
+* ⚙️ **Sklearn-Pipelines**
+* ✅ **TodoList**
+
+Your GitHub currently shows 17 repositories and these projects among the publicly visible/pinned repositories.
 
 ---
 
@@ -181,42 +232,39 @@ Currently exploring:
 
 ---
 
-# 📌 What I'm Working On
+# 🔗 Coding Profiles
 
-```text
-AI/ML
-  ├── Generative AI
-  ├── LLMs
-  ├── RAG
-  └── AI Agents
+### 💻 LeetCode
 
-Software Development
-  ├── Full Stack Applications
-  ├── Backend Systems
-  └── System Design
+**Username:** `prabhat_05`
+**450+ Problems | Rating: 1600**
 
-Competitive Programming
-  ├── DSA
-  ├── LeetCode
-  ├── Codeforces
-  └── CodeChef
-```
+### ⚔️ Codeforces
+
+**Username:** `prabhat_03`
+**Pupil | Max Rating: 1154**
+
+### ⭐ CodeChef
+
+**Username:** `prabhat_03`
+**2★ | Rating: 1425**
 
 ---
 
 # 📫 Connect With Me
 
-* 💻 GitHub: [github.com/prabhat325](https://github.com/prabhat325)
-* 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_LINK)
-* 🧩 LeetCode: [Your Profile](YOUR_LEETCODE_LINK)
-* ⚔️ Codeforces: [Your Profile](YOUR_CODEFORCES_LINK)
-* ⭐ CodeChef: [Your Profile](YOUR_CODECHEF_LINK)
+* 💻 GitHub: [@prabhat325](https://github.com/prabhat325)
+* 💼 LinkedIn: [Prabhat Dubey](https://www.linkedin.com/in/prabhat-dubey-080551379/)
+* 🧩 LeetCode: [@prabhat_05](https://leetcode.com/u/prabhat_05/)
+* ⚔️ Codeforces: [@prabhat_03](https://codeforces.com/profile/prabhat_03)
+* ⭐ CodeChef: [@prabhat_03](https://www.codechef.com/users/prabhat_03)
 
 ---
 
-## 💡 My Philosophy
+## 💡 Philosophy
 
-> **Build. Break. Learn. Repeat.**
+> **Build. Learn. Solve. Repeat. 🚀**
 
-⭐ If you find my projects interesting, consider giving them a star!
+⭐ *If you find my projects interesting, consider giving them a star!*
+
 
