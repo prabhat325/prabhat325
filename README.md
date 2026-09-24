@@ -16,11 +16,11 @@ I enjoy building real-world applications, experimenting with AI/ML systems, and 
 * 🤖 Exploring **Machine Learning, Generative AI & LLMs**
 * 💻 Building applications with **C++, Python, JavaScript & MERN**
 * 🧠 Strong focus on **Data Structures & Algorithms**
-* 🔥 **450+ LeetCode problems solved**
+* 🔥 **550+ LeetCode problems solved**
 * ⚔️ **Codeforces Pupil**
 * ⭐ **CodeChef 2★**
 * 🏆 Participated in hackathons and technical competitions
-* 🌱 Currently exploring **RAG, LangChain, LangGraph & Agentic AI**
+* 🌱 Currently exploring **ML, RAG, LangChain, LangGraph & Agentic AI**
 * 🎯 Preparing for **Software Engineering / AI-ML internships**
 
 ---
@@ -72,16 +72,6 @@ An AI/ML-powered travel platform designed to provide personalized recommendation
 
 ---
 
-## 🤖 RAG-Based AI Application
-
-Built a Retrieval-Augmented Generation system combining an LLM with vector search to generate context-aware responses.
-
-### Technologies
-
-`Python` `Gemini` `Pinecone` `RAG` `Vector Embeddings` `LLMs`
-
----
-
 ## 🌦️ Weather Dashboard
 
 A responsive weather application that fetches real-time weather information for cities using the OpenWeather API.
@@ -126,8 +116,8 @@ An interactive browser-based Rock Paper Scissors game.
 * 🏆 **99.67 Percentile — JEE Mains 2025**, among the top 0.33% of more than 14 lakh candidates
 * 🎓 **Reliance Foundation Undergraduate Scholar**
 * 🔥 **450+ LeetCode Problems Solved**
-* ⚔️ **Codeforces Pupil** — Max Rating: **1154**
-* ⭐ **CodeChef 2★** — Rating: **1425**
+* ⚔️ **Codeforces Pupil** — Max Rating: **1200**
+* ⭐ **CodeChef 2★** — Rating: **1476**
 
 Your resume explicitly confirms the Trailblitz result, JEE percentile and Reliance Foundation scholarship.
 
