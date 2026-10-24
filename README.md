@@ -1,200 +1,166 @@
-<h1 align="center">Hi 👋, I'm Prabhat Dubey</h1>
+<div align="center">
 
-<h3 align="center">
-Software Developer • Machine Learning Enthusiast • B.Tech CSE Student
-</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Header Animation">
 
-<p align="center">
-Passionate about developing intelligent software solutions, building full-stack web applications, and exploring Machine Learning & Data Structures.
-</p>
+# Hi 👋, I'm Prabhat Dubey
+
+### Full Stack Developer • Machine Learning Enthusiast • B.Tech CSE Student
 
 <p align="center">
-  <a href="https://github.com/prabhat325">
-    <img src="https://img.shields.io/github/followers/prabhat325?label=Followers&style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://github.com/prabhat325?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github"/>
-  </a>
+Building useful software, developing intelligent applications & exploring scalable systems.
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=prabhat325&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-## 👨‍💻 About Me
+<br/><br/>
 
-* 🎓 B.Tech Computer Science & Engineering student
-* 💻 Passionate about **Full Stack Web Development & Machine Learning**
-* 🧠 Strong focus on **Data Structures & Algorithms (DSA)**
-* 🌱 Currently exploring **FastAPI, AI/ML Integrations & Scalable Web Architectures**
-* 🚀 Building practical projects spanning **AI valuation models, interactive web tools & RESTful APIs**
-* 🎯 Preparing for **Software Engineering Internships & Opportunities**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhat-dubey)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prabhat325)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/prabhat325/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgicprabhat@gmail.com)
+[![Showcase](https://img.shields.io/badge/Live_Showcase-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://leetcode-company-wise-problems.vercel.app)
 
----
-
-## 🚀 Featured Projects
-
-### 🏡 PropValue AI — Intelligent Real Estate Valuation Platform
-
-An AI-powered real estate valuation platform designed to predict property prices, run What-If scenarios, and deliver deep financial insights.
-
-**Key Features**
-* 📊 Accurate property price prediction using Scikit-Learn regression models
-* 🔍 Interactive What-If sensitivity and scenario analysis
-* ⚖️ Multi-property comparative analytics
-* 💡 Automated financial breakdown and investment indicators
-* ⚡ High-performance REST APIs powered by FastAPI
-
-**Tech Stack**
-`Python` `FastAPI` `Scikit-learn` `Pandas` `NumPy` `REST APIs`
-
-🔗 **[View Project →](https://github.com/prabhat325/PropValue-AI-)**
+</div>
 
 ---
 
-### 🇮🇳 SIH — Smart India Hackathon Solution
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="35" /> About Me
 
-An innovative digital solution designed and engineered for real-world problem statements at the Smart India Hackathon.
-
-**Key Features**
-* 🌐 Comprehensive full-stack workflow with real-time responsive dashboard
-* ⚙️ Efficient backend services and data processing
-* 👥 Intuitive user interface prioritizing accessibility and smooth UX
-
-**Tech Stack**
-`JavaScript` `Node.js` `Express.js` `HTML5` `CSS3` `REST APIs`
-
-🔗 **[View Project →](https://github.com/prabhat325/SIH)**
+- 🎓 **B.Tech Computer Science & Engineering student at MNNIT Allahabad**
+- 💻 **Passionate about Full Stack Web Development & Machine Learning**
+- 🧠 **Strong focus on Data Structures & Algorithms (DSA)**
+- 🌱 **Currently exploring Backend Architecture, FastAPI & AI Integrations**
+- 🚀 **Building real-world applications involving full-stack platforms, machine learning models & REST APIs**
+- 🎯 **Preparing for Software Engineering Opportunities & Internships**
 
 ---
 
-### 💻 LeetCode Company-Wise Problems Platform
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="35" /> Tech Stack
 
-A modern, curated web interface designed to help developers systematically solve company-specific DSA interview problems.
-
-**Key Features**
-* 🏢 Categorized problem sets by top tech companies
-* 🎯 Filter by topic, difficulty, and frequency
-* ⚡ Clean, responsive UI with instant search and problem links
-
-**Tech Stack**
-`React` `JavaScript` `Vercel` `CSS3`
-
-🔗 **[View Project →](https://github.com/prabhat325/leetcode-company-wise-problems)** • 🌐 **[Live Demo →](https://leetcode-company-wise-problems.vercel.app)**
-
----
-
-### 📧 Email & SMS Spam Classifier
-
-A machine learning pipeline and web application classifying incoming messages with high precision to filter unsolicited spam.
-
-**Key Features**
-* 🧹 Natural language preprocessing (tokenization, stemming, vectorization)
-* 🤖 Supervised ML classification algorithms evaluated for high accuracy
-* 📱 Clean user interface for instant text inference
-
-**Tech Stack**
-`Python` `Scikit-learn` `NLP` `Streamlit / FastAPI`
-
-🔗 **[View Project →](https://github.com/prabhat325/Email-Spam-Classifier)**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css"/>
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,js,bootstrap"/>
-</p>
-
-### Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,py"/>
-</p>
-
-### Machine Learning & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn,py"/>
-</p>
-
-### Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,vercel"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Languages</b></td>
+      <td align="center">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,cpp,c,html,css" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Frontend</b></td>
+      <td align="center">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,bootstrap" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Backend & ML</b></td>
+      <td align="center">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,py,sklearn" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Databases & Tools</b></td>
+      <td align="center">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,vercel" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 💻 Competitive Programming & DSA
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> Featured Projects
 
-I consistently practice **Data Structures & Algorithms** to hone problem-solving and algorithmic thinking.
+**🏡 PropValue AI — Intelligent Real Estate Valuation Platform**
+- 📊 **Automated Valuation:** Real estate appraisal platform using Scikit-Learn regression models for accurate property valuation.
+- 🔍 **Interactive What-If Engine:** Test hypothetical market conditions, property upgrades, and parameter sensitivity in real time.
+- ⚖️ **Comparative Analytics:** Side-by-side financial breakdown and property comparisons for smarter investments.
+- ⚡ **High-Performance Backend:** Production-grade RESTful API architecture engineered using FastAPI.
+- 💻 **Tech Stack:** Python • FastAPI • Scikit-learn • Pandas • NumPy • REST APIs
+- 🔗 **Link:** [View Repository](https://github.com/prabhat325/PropValue-AI-)
 
-* 🧩 Regular problem-solver on **LeetCode**
-* 🧠 Focus on **Arrays, Trees, Graphs, Dynamic Programming & System Patterns**
-* 💡 Actively building interactive tools for interview preparation
+<br/>
 
-### Profiles
+**🇮🇳 SIH — Smart India Hackathon Solution**
+- 🌐 **Unified Architecture:** Scalable multi-tier application engineered to solve real-world challenges presented in SIH.
+- 📊 **Real-Time Dashboard:** Interactive interface delivering intuitive data visualization and workflow monitoring.
+- 🔐 **REST Services:** Modular and robust backend handling core business logic and request processing.
+- 💻 **Tech Stack:** JavaScript • Node.js • Express.js • HTML5 • CSS3 • REST APIs
+- 🔗 **Link:** [View Repository](https://github.com/prabhat325/SIH)
 
-<p>
-  <a href="https://leetcode.com/u/prabhat325/">
-    <img src="https://img.shields.io/badge/LeetCode-prabhat325-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
-  <a href="https://github.com/prabhat325">
-    <img src="https://img.shields.io/badge/GitHub-prabhat325-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<br/>
 
----
+**💻 LeetCode Company-Wise Problems Platform**
+- 🏢 **Curated Problem Directory:** Systematically categorizes interview questions asked by top tech product companies.
+- 🎯 **Targeted Preparation:** Real-time filtering by company tag, algorithmic topic, and problem difficulty.
+- ⚡ **Deployed Web Application:** Clean, responsive UI with instant search deployed for active interview preparation.
+- 💻 **Tech Stack:** React • JavaScript • CSS3 • Vercel
+- 🔗 **Link:** [View Repository](https://github.com/prabhat325/leetcode-company-wise-problems) • [Live Demo](https://leetcode-company-wise-problems.vercel.app)
 
-## 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=prabhat325&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhat325&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prabhat325&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Currently Learning & Working On
-
-* 🤖 Deepening knowledge in **Machine Learning & Applied AI**
-* ⚡ Building scalable backend systems with **FastAPI & Node.js**
-* 🧩 Strengthening **Data Structures & Algorithms**
-* 🚀 Preparing for **Software Development Engineer (SDE) roles & internships**
+**📧 Email & SMS Spam Classifier**
+- 🧹 **Text Preprocessing Pipeline:** Implements tokenization, stop-word filtering, and TF-IDF vectorization.
+- 🤖 **ML Classifier:** Supervised machine learning algorithms trained for high-precision message classification.
+- 📱 **Interactive Interface:** Clean user interface providing instant predictions on user-submitted text.
+- 💻 **Tech Stack:** Python • Scikit-learn • NLP • Streamlit / FastAPI
+- 🔗 **Link:** [View Repository](https://github.com/prabhat325/Email-Spam-Classifier)
 
 ---
 
-## 📫 Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" alt="Crossed Swords" width="35" /> Competitive Programming & DSA
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/prabhat-dubey" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mgicprabhat@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/prabhat325" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode-company-wise-problems.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Project_Showcase-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+I regularly practice **Data Structures & Algorithms** across core problem patterns including Trees, Graphs, DP, and System Logic.
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-prabhat325-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/prabhat325/)
+[![GitHub](https://img.shields.io/badge/GitHub-prabhat325-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prabhat325)
+
+</div>
 
 ---
 
-<p align="center">
-  ### 💡 Quote
-  <br>
-  <i>"Consistency beats intensity. Keep building, keep learning."</i>
-</p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" /> GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhat325&show_icons=true&theme=tokyonight&hide_border=true" alt="Prabhat's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhat325&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<br/>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" /> GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=prabhat325&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="35" /> Education
+
+**B.Tech — Computer Science & Engineering**  
+MNNIT Allahabad (2025 – 2029)
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" /> Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhat-dubey)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgicprabhat@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prabhat325)
+[![Project Showcase](https://img.shields.io/badge/Showcase-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://leetcode-company-wise-problems.vercel.app)
+
+<br/>
+
+*Building. Learning. Shipping. 🚀*
+
+<br/>
+
+<i>"Consistency beats intensity. Keep building, keep learning."</i>
+
+</div>
